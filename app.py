@@ -13,7 +13,6 @@ def doubleSquares(iRange):
     for i in range(iRange):
         square(length, 90)
         length = length * 2
-doubleSquares(5)
-
+doubleSquares(6)
 
 turtle.done()
