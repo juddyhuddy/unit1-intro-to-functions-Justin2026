@@ -5,4 +5,4 @@ def spaces(x,y,t):
         if(y[i]=="C"and t[i]=="C"):
             found +=1
     print(found)
-spaces((5)"C..CC","CC.C.")
+X=5
